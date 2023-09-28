@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "locales": {
+    "saloon_level_name": "САЛУН",
+    "forest_level_name": "ЛЕС",
+    "play": "ИГРАТЬ",
+    "select_level": "ВЫБОР УРОВНЯ",
+    "level_hint": "Тапайте по врагам, не по гражданским!",
+    "enemy_fire": "В вас выстрелили",
+    "civilian_death": "Это был гражданский",
+    "restart": "РЕСТАРТ",
+    "exit": "ВЫХОД",
+    "score": "СЧЕТ: {0}",
+    "best_score": "ЛУЧШИЙ СЧЕТ: {0}"
+  }
+}

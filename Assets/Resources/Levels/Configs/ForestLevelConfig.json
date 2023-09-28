@@ -1,0 +1,14 @@
+{
+  "id": "Forest",
+  "order": 1,
+  "locKey": "forest_level_name",
+  "resourcesPrefabPath": "Levels/Prefabs/ForestLevelContent",
+  "characters": {
+    "minSpawnDelaySec": 1.0,
+    "maxSpawnDelaySec": 5.0,
+    "maxSpawnCount": 3,
+    "minWaitingDelaySec": 1.0,
+    "maxWaitingDelaySec": 5.0,
+    "bonusPoints": 5
+  }
+}

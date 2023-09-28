@@ -1,0 +1,16 @@
+{
+  "language": "en",
+  "locales": {
+    "saloon_level_name": "SALOON",
+    "forest_level_name": "FOREST",
+    "play": "PLAY",
+    "select_level": "SELECT LEVEL",
+    "level_hint": "Tap on enemies, not on civilians!",
+    "enemy_fire": "You were shot",
+    "civilian_death": "It was a civilian",
+    "restart": "RESTART",
+    "exit": "EXIT",
+    "score": "SCORE: {0}",
+    "best_score": "BEST SCORE: {0}"
+  }
+}
